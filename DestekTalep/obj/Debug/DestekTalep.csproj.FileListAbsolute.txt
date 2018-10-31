@@ -1,0 +1,98 @@
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\ApplicationInsights.config
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\csc.exe
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\System.Collections.Immutable.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\vbc.exe
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\VBCSCompiler.exe
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\roslyn\VBCSCompiler.exe.config
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\DestekTalep.dll.config
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\DestekTalep.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\DestekTalep.pdb
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Antlr3.Runtime.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.Web.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.WindowsServer.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.ApplicationInsights.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.Web.Infrastructure.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Newtonsoft.Json.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\System.Web.Optimization.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\WebGrease.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.Web.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AI.WindowsServer.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.ApplicationInsights.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\System.Web.Optimization.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Antlr3.Runtime.pdb
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Newtonsoft.Json.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\obj\Debug\DestekTalep.csprojResolveAssemblyReference.cache
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\obj\Debug\DestekTalep.dll
+c:\users\uakinci\documents\visual studio 2015\Projects\DestekTalep\DestekTalep\obj\Debug\DestekTalep.pdb
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\ApplicationInsights.config
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\csc.exe
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\vbc.exe
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\VBCSCompiler.exe
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\DestekTalep.dll.config
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\DestekTalep.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\DestekTalep.pdb
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Antlr3.Runtime.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.Web.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.ApplicationInsights.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Newtonsoft.Json.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\System.Web.Optimization.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\WebGrease.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.Web.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.ApplicationInsights.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\System.Web.Optimization.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Antlr3.Runtime.pdb
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Newtonsoft.Json.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\obj\Debug\DestekTalep.csprojAssemblyReference.cache
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\obj\Debug\DestekTalep.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\obj\Debug\DestekTalep.csproj.CopyComplete
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\obj\Debug\DestekTalep.dll
+C:\Users\uakinci\Desktop\DestekTalep\DestekTalep\obj\Debug\DestekTalep.pdb
